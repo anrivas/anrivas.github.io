@@ -1,3 +1,11 @@
+@font-face {
+	font-family: sans-serif;
+}
+
+#headernav {
+	background-color: blue;
+}
+
 
 h1 {
 	font-family: Helvetica;
@@ -12,6 +20,9 @@ h4 {
 
 body {
 	background-color:#FF8C64
- 
 
-  }
+ }
+
+p {
+	font-family:cursive;
+}
