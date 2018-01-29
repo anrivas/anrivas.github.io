@@ -1,0 +1,67 @@
+.logo { /*KOOL RANCH*/
+	background-color: #E5CCBC;
+	font-family: 'Raleway',sans-serif;
+	text-align: center;
+	font-size: 60px;
+	padding: 10px;
+}
+/*I want to use a font I purchased called "Island Style" for the "KOOL RANCH" logo*/
+
+header {
+	background-color: #E5CCBC;
+	text-align: center;
+	font-family: 'Raleway', sans-serif; 
+	font-size: 20px;
+	padding: 10px;                          /*1em = 16px*/
+	text-transform: uppercase;
+}
+
+
+h1  {
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+	font-weight: lighter;
+	font-size: 50px
+	
+
+}
+
+h2{
+	font-family: 'Raleway', sans-serif;
+	font-weight: lighter;
+	font-size: 40px;
+}
+
+h4 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 50px;
+
+}
+
+th{
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+
+}
+
+td {
+	font-family: 'Playfair Display', serif;
+	font-size: 18px;
+}
+
+body {
+	background-color: white;
+ }
+
+p {
+  font-family: 'Playfair Display', serif;
+  font-size: 18px;
+
+}
+
+footer { 
+
+  padding: 20px;
+  background-color: #E5CCBC;
+  text-align: center;
+}
