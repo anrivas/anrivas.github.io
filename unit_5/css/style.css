@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display|Raleway:400,700');
+*{ margin:0; padding:0; box-sizing:border-box;}
+
+body {
+	color: #333;
+	font size: 18px;
+	font-family: 'Playfair Display', serif;
+	line-height: 1.3;
+	font-weight: 400;
+ }
+
+
+.logo { /*KOOL RANCH*/
+	background-color: #E5CCBC;
+	font-family: 'Raleway',sans-serif;
+	text-align: center;
+	font-size: 60px;
+	padding: 10px;
+}
+/*I want to use a font I purchased called "Island Style" for the "KOOL RANCH" logo*/
+/* @font-face otf woff*/
+
+.nav {
+	background-color: #E8C66A;
+}
+
+.intro {
+	background-color: #FFE2B8;
+}
+
+.aboutus_article {
+	background-color: #E89C6C;
+}
+
+header {
+	background-color: #FFED74;
+	text-align: center;
+	font-family: 'Raleway', sans-serif; 
+	font-size: 20px;
+	border: 1px black solid;
+	padding: 20px;                          /*1em = 16px*/
+	text-transform: uppercase;
+}
+
+h1,h2,h4 {
+	background-color: #FFE2B8; /*section color for unit 5*/
+	font-weight: 400;
+	font-family: 'Raleway', sans-serif;
+}
+
+
+
+
+h1  {
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+	font-weight: lighter;
+	font-size: 50px
+	
+
+}
+
+h2{
+	font-family: 'Raleway', sans-serif;
+	font-weight: lighter;
+	font-size: 40px;
+}
+
+h4 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 50px;
+
+}
+
+th{
+	background-color: #FFC675; /*aside color*/
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+
+}
+
+td {
+	background-color: #FFC675; /*aside color*/
+	font-family: 'Playfair Display', serif;
+	font-size: 18px;
+}
+
+
+
+p {
+  background-color: #E89C6C;  /*article color*/
+  font-family: 'Playfair Display', serif;
+  font-size: 18px;
+
+}
+
+footer { 
+  background-color: #FF957E;
+  padding: 20px;
+  text-align: center;
+}
