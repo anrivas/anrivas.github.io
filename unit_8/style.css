@@ -1,0 +1,186 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display|Raleway:400,700');
+*{ margin:0; padding:0; box-sizing:border-box;}
+
+body {
+	color: #333;
+	font size: 1.5em;
+	font-family: 'Playfair Display', serif;
+	line-height: 1.3;
+	font-weight: 400;
+ }
+
+
+.logo { /*KOOL RANCH*/
+	font-family: 'Raleway',sans-serif;
+	text-align: center;
+	font-size: 60px;
+	padding: 10px;
+}
+/*I want to use a font I purchased called "Island Style" for the "KOOL RANCH" logo*/
+/* @font-face otf woff*/
+
+header { /*nav*/
+	text-align: center;
+	font-family: 'Raleway', sans-serif; 
+	font-size: 1.5em;
+	padding: 20px;                          /*1em = 16px*/
+	text-transform: uppercase;
+}
+
+.intro {
+	text-align: center;
+    padding-top: 26px;
+    padding-left: 14px;
+    padding-right: 15px;
+
+}
+
+#HorsesInStalls {
+	margin-top: -139px;
+    margin-left: 793px;
+
+}
+
+#HorsesInStallsImage{
+	height: 270px;
+	width: 200px;
+}
+
+
+
+#BoardingPrice {
+	padding-top: 15px;
+}
+
+
+
+.western_girl { /*image*/
+	padding-top: 10px;
+	padding-left: 10px;
+	height: 300px;
+	width: 340px;
+
+
+}
+
+#lesson_description {
+	margin-top:-286px;
+	margin-left:393px;
+}
+
+
+#facilities {
+	padding-top: 50px;
+
+}
+
+
+.FacilityImages {
+	height: 100px;
+	width: 120px;
+}
+
+#StallPrices {
+	padding-left: 25px;
+}
+
+
+
+#lesson_left{
+	float: right;
+	width: 50%;
+}
+
+#lesson_right{
+	float: right;
+	width: 50%;
+
+}
+
+h1,h2,h4 {
+	background-color: lightblue;
+	font-weight: 400;
+	font-family: 'Raleway', sans-serif;
+}
+
+
+
+
+h1  {                      /*We're a full service riding academy and boarding stable located in beautiful California*/
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+	font-weight: lighter;
+	font-size: 50px
+	
+
+}
+
+h2{
+	font-family: 'Raleway', sans-serif;
+	font-weight: lighter;
+	font-size: 40px;
+}
+
+h4 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 50px;
+
+}
+
+th{
+	/*background-color: #FFC675; /*aside color*/
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+
+}
+
+td {
+	/*background-color: #FFC675; /*aside color*/
+	font-family: 'Playfair Display', serif;
+	font-size: 18px;
+}
+
+
+
+p {
+  /*background-color: #E89C6C;  /*article color*/
+  font-family: 'Playfair Display', serif;
+  font-size: 18px;
+
+}
+
+#two_column {
+    padding: 20px;
+}
+
+#two_column_2 {
+    padding: 20px;
+}
+
+#left {
+    padding: 20px;
+    width: 45%;
+    float: left;
+}
+
+#right {
+    padding: 20px;
+    width: 45%;
+    float: left;
+}
+
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+footer { 
+  background-color: white;
+  padding: 20px;
+  text-align: center;
+}
